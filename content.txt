@@ -1,2 +1,2 @@
-line1 --modified by git
-line2 --modified by git
+line1 --modified by main
+line2 --modified by main
